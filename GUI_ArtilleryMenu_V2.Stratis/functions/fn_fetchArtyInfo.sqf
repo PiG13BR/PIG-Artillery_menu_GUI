@@ -39,7 +39,7 @@ if (count PIG_artillery_support == 0) exitWith {
 }forEach PIG_artillery_support;
 
 // Artillery position marker
-createMarkerLocal ["artySel_marker", markers_reset];
+createMarkerLocal ["artySel_marker", markers_default_pos];
 "artySel_marker" setMarkerTypeLocal "b_art";
 "artySel_marker" setMarkerColorLocal "ColorBLUFOR";
 "artySel_marker" setMarkerSize [1.2, 1.2]; // Make it a little bigger
