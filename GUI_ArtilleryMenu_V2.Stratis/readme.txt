@@ -1,2 +1,3 @@
 HOW TO USE IT:
-Put a variable name on your artillery and paste it over inside the array (PIG_artillery_support = [here]) on the first line of the fn_fetchArtyInfo.sqf 
+- Put the artillery variable name inside the PIG_artillery_support array located in the arty_preset.sqf file. Can be one or multiples.
+- Start the scenario.
