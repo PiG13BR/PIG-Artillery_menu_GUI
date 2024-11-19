@@ -1,6 +1,7 @@
 /*  
     File: fn_getArtilleryRanges.sqf
-    Author: Antistasi Dev Team - https://github.com/SilenceIsFatto/A3-Antistasi-Ultimate/blob/stable/A3A/addons/core/functions/Supports/fn_getArtilleryRanges.sqf
+    Author: Antistasi Dev Team (John Jordan) - https://github.com/official-antistasi-community/A3-Antistasi/blob/unstable/A3A/addons/core/functions/Supports/fn_getArtilleryRanges.sqf
+        Permission to use it granted by the author
     Date: -
     Last Update: -
 
