@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Artillery Menu">
+	<Package name="Artillery Menu">
+		<Container name="Arty Main Menu">
+			<Key ID="STR_ARTY_MENU_ACTION">
+				<Original>Open Artillery Menu</Original>
+				<English>Open Artillery Menu</English>
+				<Portuguese>Abrir Menu de Artilharia</Portuguese>
+			</Key>
+			<Key ID="STR_ARTY_MENU_TITLE">
+				<Original>Artillery Menu</Original>
+				<English>Artillery Menu</English>
+				<Portuguese>Menu de Artilharia</Portuguese>
+			</Key>
+			<Key ID="STR_MENU_ARTILLERY">
+				<Original>Artillery</Original>
+				<English>Artillery</English>
+				<Portuguese>Artilharia</Portuguese>
+			</Key>
+			<Key ID="STR_MENU_AMMUNITION">
+				<Original>Ammunition</Original>
+				<English>Ammunition</English>
+				<Portuguese>Munição</Portuguese>
+			</Key>
+			<Key ID="STR_MENU_ROUNDS">
+				<Original>Rounds</Original>
+				<English>Rounds</English>
+				<Portuguese>Tiros</Portuguese>
+			</Key>
+			<Key ID="STR_MENU_FIRE">
+				<Original>Fire</Original>
+				<English>Fire</English>
+				<Portuguese>Atirar</Portuguese>
+			</Key>
+			<Key ID="STR_MENU_CLOSE">
+				<Original>Close</Original>
+				<English>Close</English>
+				<Portuguese>Fechar</Portuguese>
+			</Key>
+		</Container>
+		<Container name="Arty Functions">
+			<Key ID="STR_ARTY_AVAILABLE">
+				<Original>No artillery available</Original>
+				<English>No artillery available</English>
+				<Portuguese>Nenhuma artilharia disponível</Portuguese>
+			</Key>
+			<Key ID="STR_SELECT_ARTY">
+				<Original>Select the artillery piece</Original>
+				<English>Select the artillery piece</English>
+				<Portuguese>Selecione uma artilharia</Portuguese>
+			</Key>
+			<Key ID="STR_SELECT_AMMO">
+				<Original>Select the ammo type</Original>
+				<English>Select the ammo type</English>
+				<Portuguese>Selecione um tipo de munição</Portuguese>
+			</Key>
+			<Key ID="STR_SELECT_ROUNDS">
+				<Original>Select how many rounds</Original>
+				<English>Select how many rounds</English>
+				<Portuguese>Selecione quantos tiros</Portuguese>
+			</Key>
+			<Key ID="STR_SELECT_POSITION">
+				<Original>Select a position in the map</Original>
+				<English>Select a position in the map</English>
+				<Portuguese>Selecione uma posição no mapa</Portuguese>
+			</Key>
+			<Key ID="STR_ARTY_BUSY">
+				<Original>The artillery is busy right now</Original>
+				<English>The artillery is busy right now</English>
+				<Portuguese>A artilharia está ocupada</Portuguese>
+			</Key>
+			<Key ID="STR_ARTY_RANGE">
+				<Original>The target is out of artillery range</Original>
+				<English>The target is out of artillery range</English>
+				<Portuguese>O alvo está fora do alcance da artilharia</Portuguese>
+			</Key>
+			<Key ID="STR_ARTY_MARKER_TARGET">
+				<Original>Target</Original>
+				<English>Target</English>
+				<Portuguese>Alvo</Portuguese>
+			</Key>
+			<Key ID="STR_ARTY_MARKER_FIRE">
+				<Original>Artillery Fire</Original>
+				<English>Artillery Fire</English>
+				<Portuguese>Fogo de Artilharia</Portuguese>
+			</Key>
+		</Container>
+	</Package>
+</Project>
