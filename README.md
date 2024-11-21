@@ -1,0 +1,3 @@
+- Put the files in your mission.
+- Name your artillery units (already spawned in editor).
+- Put the name of the artillery units in arty_preset.sqf file.
