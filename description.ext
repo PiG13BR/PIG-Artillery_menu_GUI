@@ -5,8 +5,10 @@ class cfgFunctions
 {
 	class PIG
 	{
-		class arty_menu
+		class function
 		{
+			file = "functions";
+
 			class fetchArtyInfo {};
 			class fireArty {};
 			class getArtilleryRanges {};
