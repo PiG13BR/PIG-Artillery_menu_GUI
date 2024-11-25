@@ -1,1 +1,17 @@
+#include "ui\defines.hpp"
+#include "ui\menu_arty.hpp"
 
+class cfgFunctions 
+{
+	class PIG
+	{
+		class function
+		{
+			file = "functions";
+
+			class fetchArtyInfo {};
+			class fireArty {};
+			class getArtilleryRanges {};
+		}
+	}
+}
