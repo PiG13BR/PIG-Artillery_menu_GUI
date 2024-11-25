@@ -1,4 +1,4 @@
-- Put the files in your mission folder.
+- Put the files (Missionframework) in your mission folder.
 - Name your artillery units (already spawned in editor).
 - Put the name of the artillery units in arty_preset.sqf file.
 - SP/MP/Dedicated
